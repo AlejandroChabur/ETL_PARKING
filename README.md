@@ -41,8 +41,5 @@ Incluye modelado de datos, carga mediante ETL (SSIS) y visualización con Power 
 ├── V2_ETL.sln             # Solución de Visual Studio del proyecto ETL
 ├── v2_ETL.pbix            # Dashboard en Power BI
 └── README.md              # Este archivo
----
-## Dejo alguans iamgenes del dashboaard
-<img width="1312" height="737" alt="image" src="https://github.com/user-attachments/assets/41c36fe8-73ab-4e65-ae78-701ccd1a80ea" />
-<img width="1311" height="735" alt="image" src="https://github.com/user-attachments/assets/756b7b83-b4bd-4144-83c1-cf3d8044f549" />
+
 
